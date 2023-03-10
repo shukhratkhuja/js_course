@@ -1,0 +1,16 @@
+...
+callback function
+local and global variables
+operators (unar and binar operators) (infex, prefix, postfix , operand, argument)
+operator ...
+concatination - 
+functional expressions
+arrow functions (always anonymous)
+default value of function arguments
+error handling
+instruction
+arrays - methods
+destructural assignment
+if - else
+switch - case
+ternary operator
