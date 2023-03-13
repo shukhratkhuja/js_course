@@ -14,3 +14,6 @@ destructural assignment
 if - else
 switch - case
 ternary operator
+loops (for (forEach, map, reduce - for arrays), while, for in, for of - only for Arrays)
+modules
+8.37
